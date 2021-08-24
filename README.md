@@ -18,6 +18,12 @@
 
 Snap Circle is a cross-collaboration between three of the 2021 Snap Academies: Design, Engineering, and Storytelling. We developed this feature to address the social justice issue of Education. Using React, React Native, Expo, and Bitmojis, we've recreated the Snapchat app and added in our feature. After navigating to the discover page, users will find Snap Circle. From there, they can scroll through a collection of stories from BIPOC professionals in various industries to find inspiration and shared resources.
 
+## Presentation Video:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-IVoxZqhcoQ
+" target="_blank"><img src="http://img.youtube.com/vi/-IVoxZqhcoQ/0.jpg" 
+alt="Snap Circle Video Presentation" width="480" height="360" border="10" /></a>
+
 #### To Run: 
 
 To test out the live demo, download the code and type `yarn install` followed by `expo start` into your terminal. You will need to download the [Expo Go](https://apps.apple.com/us/app/expo-go/id982107779) app onto your phone in order to use the app.
